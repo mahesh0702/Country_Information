@@ -3,8 +3,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Output :
+
+![01](https://github.com/mahesh0702/Country_Information/assets/97695969/4ac3effd-2f63-4979-9f72-d45fd8ac8739)
+![02](https://github.com/mahesh0702/Country_Information/assets/97695969/cac98c35-bdd3-45e3-b1ba-3de67530b6dd)
+![03](https://github.com/mahesh0702/Country_Information/assets/97695969/6b653116-a39f-42dd-a637-4e5b52ea8b86)
+![04](https://github.com/mahesh0702/Country_Information/assets/97695969/7c4accbe-9c4a-4a74-931e-fbda094526b4)
+
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
